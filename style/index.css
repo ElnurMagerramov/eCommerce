@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header img{
+    width: 15%;
+}
+.dropdown nav{
+    z-index: 1;
+}
+a{
+    text-decoration: none;
+}
+.main{
+    width: 97%;
+    margin: 3% 1.5%;
+}
+.Webflow{
+    padding: 22%;
+    background-size: cover;
+    background-position: center;
+}
+.lineDiv{
+    width: 50px;
+    height: 1px;
+    margin-left: 48%;
+}
+.col-4 img, .col-2 img, .col-9 img, .col-7 img{
+    width: 100%;
+}
